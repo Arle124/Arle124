@@ -1,4 +1,4 @@
-<h2 data-importer="text" align="left">Hola 👋! Soy Asher y soy un Software Engineer (Offline-First / IoT)</h2>
+<h2 data-importer="text" align="left">Hola! Soy Asher y soy un Software Developer (Offline-First / IoT)</h2>
 
 ###
 
