@@ -45,7 +45,7 @@
 <br>
 
 <div align="left">
-  <h3>🚀 Sobre mí</h3>
+  <h3>Sobre mí</h3>
   <ul>
     <li>🔭 Trabajando en <b>HospedaSync</b> (SaaS Hotelero Offline-First) y <b>Tienda-Offline</b>.</li>
     <li>🌱 Investigando telemetría ambiental (Río Lebrija) e integración de hardware con ESP32.</li>
