@@ -1,4 +1,4 @@
-<h2 data-importer="text" align="left">Hola! Soy Asher y soy un Software Developer (Offline-First / IoT)</h2>
+<h2 data-importer="text" align="left">Hi! I'm Asher, a Software Developer (Offline-First / IoT)</h2>
 
 ###
 
@@ -45,27 +45,26 @@
 <br>
 
 <div align="left">
-  <h3>Sobre mí</h3>
+  <h3>About Me</h3>
   <ul>
-    <li>Estudiante de 7mo semestre de <b>Ingeniería de Sistemas</b> en la UPCSA.</li>
-    <li><b>HospedaSync:</b> Desarrollando un SaaS de gestión hotelera Offline-First, cruzando mi stack tecnológico con mi <b>experiencia real en recepción y administración de hoteles.</b></li>
-    <li>Investigando telemetría ambiental IoT para la cuenca baja del Río Lebrija.</li>
-    <li>Apasionado por Linux (CachyOS/Fedora) y el <i>ricing</i> avanzado (Hyprland, KDE Plasma).</li>
-    <li>Mantengo un homelab móvil (<code>cel-server</code>) en Android orquestado con Tailscale.</li>
+    <li>7th-semester <b>Systems Engineering</b> student at UPCSA.</li>
+    <li><b>HospedaSync:</b> Building an Offline-First hotel management SaaS, bridging my tech stack with hands-on <b>front-desk and hotel operations experience.</b></li>
+    <li>Researching environmental IoT telemetry for the lower Lebrija River basin.</li>
+    <li>Passionate about Linux environments.</li>
   </ul>
 </div>
 
 ###
 
 <div align="left">
-  <h3>Habilidades Destacadas</h3>
+  <h3>Featured Skills</h3>
   <ul>
-    <li><b>Desarrollo Fullstack:</b> Arquitecturas PERN (PostgreSQL, Express, React, Node.js) y TypeScript.</li>
-    <li><b>Arquitecturas Offline-First:</b> Diseño de sistemas locales que no dependen de la nube (SaaS Hotelero, Tienda-Offline).</li>
-    <li><b>Redes & IoT:</b> Configuración de redes Cisco, diagnóstico con <code>nmap</code>, y comunicación serial con ESP32.</li>
-    <li><b>Inteligencia Artificial:</b> Modelos predictivos (Machine Learning) para sistemas de telemetría IoT.</li>
-    <li><b>Desarrollo Asistido por IA:</b> Uso avanzado de LLMs y agentes autónomos para el diseño de arquitecturas complejas, refactorización y pair-programming.</li>
-    <li><b>Infraestructura & Entornos:</b> Docker, Git y optimización de energía en entornos Linux.</li>
+    <li><b>Fullstack Development:</b> PERN stack (PostgreSQL, Express, React, Node.js) and TypeScript architectures.</li>
+    <li><b>Offline-First Architecture:</b> Designing resilient local-first systems free from cloud dependence (Hospitality SaaS, Offline Store POS).</li>
+    <li><b>Networking & IoT:</b> Cisco network configuration, diagnostic workflows with <code>nmap</code>, and serial communication on ESP32 microcontrollers.</li>
+    <li><b>Artificial Intelligence:</b> Machine Learning predictive models tailored for IoT telemetry systems.</li>
+    <li><b>AI-Assisted Development:</b> Advanced orchestration of LLMs and autonomous agents for system architecture design, refactoring, and pair-programming.</li>
+    <li><b>Infrastructure & Environments:</b> Docker, Git, and Linux power-tuning/kernel optimization.</li>
   </ul>
 </div>
 
