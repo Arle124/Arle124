@@ -63,3 +63,13 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arle124&theme=tokyonight&hide_border=true&background=1b2230&ring=36BCF7&fire=36BCF7&currStreakNum=a9b1d6" height="150" alt="GitHub Streak" />
   </a>
 </div>
+
+###
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arle124/Arle124/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arle124/Arle124/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Arle124/Arle124/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+
+###
