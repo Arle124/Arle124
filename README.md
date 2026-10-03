@@ -47,9 +47,25 @@
 <div align="left">
   <h3>Sobre mí</h3>
   <ul>
-    <li>🔭 Trabajando en <b>HospedaSync</b> (SaaS Hotelero Offline-First) y <b>Tienda-Offline</b>.</li>
-    <li>🌱 Investigando telemetría ambiental (Río Lebrija) e integración de hardware con ESP32.</li>
-    <li>💻 Mantengo un homelab móvil (<code>cel-server</code>) en Android con Tailscale.</li>
+    <li>Estudiante de 7mo semestre de <b>Ingeniería de Sistemas</b> en la UPCSA.</li>
+    <li><b>HospedaSync:</b> Desarrollando un SaaS de gestión hotelera Offline-First, cruzando mi stack tecnológico con mi <b>experiencia real en recepción y administración de hoteles.</b></li>
+    <li>Investigando telemetría ambiental IoT para la cuenca baja del Río Lebrija.</li>
+    <li>Apasionado por Linux (CachyOS/Fedora) y el <i>ricing</i> avanzado (Hyprland, KDE Plasma).</li>
+    <li>Mantengo un homelab móvil (<code>cel-server</code>) en Android orquestado con Tailscale.</li>
+  </ul>
+</div>
+
+###
+
+<div align="left">
+  <h3>Habilidades Destacadas</h3>
+  <ul>
+    <li><b>Desarrollo Fullstack:</b> Arquitecturas PERN (PostgreSQL, Express, React, Node.js) y TypeScript.</li>
+    <li><b>Arquitecturas Offline-First:</b> Diseño de sistemas locales que no dependen de la nube (SaaS Hotelero, Tienda-Offline).</li>
+    <li><b>Redes & IoT:</b> Configuración de redes Cisco, diagnóstico con <code>nmap</code>, y comunicación serial con ESP32.</li>
+    <li><b>Inteligencia Artificial:</b> Modelos predictivos (Machine Learning) para sistemas de telemetría IoT.</li>
+    <li><b>Desarrollo Asistido por IA:</b> Uso avanzado de LLMs y agentes autónomos para el diseño de arquitecturas complejas, refactorización y pair-programming.</li>
+    <li><b>Infraestructura & Entornos:</b> Docker, Git y optimización de energía en entornos Linux.</li>
   </ul>
 </div>
 
@@ -71,5 +87,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arle124/Arle124/pacman-output/pacman-contribution-graph.svg?game=pacman">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Arle124/Arle124/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
-
-###
