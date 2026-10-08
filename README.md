@@ -2,7 +2,7 @@
 
 ###
 
-# <img width="300" height="300" align=right alt="konata-lucky-star" src="https://github.com/user-attachments/assets/8a7dcb1d-af2b-4e0b-98e0-6df767155431" />
+<!--<img width="300" height="300" align=right alt="konata-lucky-star" src="https://github.com/user-attachments/assets/8a7dcb1d-af2b-4e0b-98e0-6df767155431" />-->
 
 ###
 
